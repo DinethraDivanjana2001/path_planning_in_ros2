@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
-project(Path-Planning-in-Robot-Operating-System-ROS2)
+project(path_planning_in_ros2
+)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
