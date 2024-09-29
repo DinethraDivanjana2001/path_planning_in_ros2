@@ -16,7 +16,7 @@ def generate_launch_description():
     use_sim_time = LaunchConfiguration('use_sim_time')
 
     # Process the URDF file
-    pkg_path = os.path.join(get_package_share_directory('Path-Planning-in-Robot-Operating-System-ROS2'))
+    pkg_path = os.path.join(get_package_share_directory('path_planning_in_ros2'))
     xacro_file = os.path.join(pkg_path,'description','robot.urdf.xacro')
     robot_description_config = xacro.process_file(xacro_file)
     
