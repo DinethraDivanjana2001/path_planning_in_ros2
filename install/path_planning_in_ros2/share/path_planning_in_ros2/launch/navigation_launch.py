@@ -1,0 +1,1 @@
+/home/dinethra/ros_bot/src/path_planning_in_ros2/launch/navigation_launch.py

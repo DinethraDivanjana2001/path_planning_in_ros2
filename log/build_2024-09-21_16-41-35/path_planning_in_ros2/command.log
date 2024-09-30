@@ -1,0 +1,6 @@
+Invoking command in '/home/dinethra/ros_bot/build/path_planning_in_ros2': /usr/bin/cmake /home/dinethra/ros_bot/src/path_planning_in_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/dinethra/ros_bot/install/path_planning_in_ros2
+Invoked command in '/home/dinethra/ros_bot/build/path_planning_in_ros2' returned '0': /usr/bin/cmake /home/dinethra/ros_bot/src/path_planning_in_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/dinethra/ros_bot/install/path_planning_in_ros2
+Invoking command in '/home/dinethra/ros_bot/build/path_planning_in_ros2': /usr/bin/cmake --build /home/dinethra/ros_bot/build/path_planning_in_ros2 -- -j12 -l12
+Invoked command in '/home/dinethra/ros_bot/build/path_planning_in_ros2' returned '0': /usr/bin/cmake --build /home/dinethra/ros_bot/build/path_planning_in_ros2 -- -j12 -l12
+Invoking command in '/home/dinethra/ros_bot/build/path_planning_in_ros2': /usr/bin/cmake --install /home/dinethra/ros_bot/build/path_planning_in_ros2
+Invoked command in '/home/dinethra/ros_bot/build/path_planning_in_ros2' returned '0': /usr/bin/cmake --install /home/dinethra/ros_bot/build/path_planning_in_ros2
