@@ -17,8 +17,6 @@ from launch_ros.actions import Node
 def generate_launch_description():
 
 
-    # Include the robot_state_publisher launch file, provided by our own package. Force sim time to be enabled
-    # !!! MAKE SURE YOU SET THE PACKAGE NAME CORRECTLY !!!
 
     package_name='path_planning_in_ros2' #<--- CHANGE ME
 
@@ -86,8 +84,7 @@ def generate_launch_description():
     )
 
 
-    # Code for delaying a node (I haven't tested how effective it is)
-    # 
+    # Code for delaying a node 
     # First add the below lines to imports
     # from launch.actions import RegisterEventHandler
     # from launch.event_handlers import OnProcessExit
